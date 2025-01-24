@@ -141,7 +141,7 @@ span{
     font-size: 1.8rem;
     font-weight: 500;
 }
-.social-icons p{
+.social-icons a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -155,7 +155,7 @@ span{
     transition: 0.3s ease;
     color: #b74b4b;
 }
-.social-icons p:hover{
+.social-icons a:hover{
     color: black;
     transform: scale(1.3) translateY(-5px);
     background-color: #b74b4b;
@@ -451,7 +451,7 @@ span{
     background-color: #941818;
     box-shadow: 0  0 26px #941818;
 }
-.icons p{
+.icons a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -465,7 +465,7 @@ span{
     transition: 0.3s ease;
     color: #b74b4b;
 }
-.icons p:hover{
+.icons a:hover{
     color: black;
     transform: scale(1.3) translateY(-5px);
     background-color: #b74b4b;
